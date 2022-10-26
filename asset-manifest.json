@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/genderApi/static/css/main.3e945afe.css",
+    "main.js": "/genderApi/static/js/main.4571f5b6.js",
+    "static/js/787.28cb0dcd.chunk.js": "/genderApi/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/genderApi/index.html",
+    "main.3e945afe.css.map": "/genderApi/static/css/main.3e945afe.css.map",
+    "main.4571f5b6.js.map": "/genderApi/static/js/main.4571f5b6.js.map",
+    "787.28cb0dcd.chunk.js.map": "/genderApi/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e945afe.css",
+    "static/js/main.4571f5b6.js"
+  ]
+}
